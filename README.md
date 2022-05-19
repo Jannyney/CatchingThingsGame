@@ -1,1 +1,1 @@
-# CatchingThingsGame
+# Catching Things Game
